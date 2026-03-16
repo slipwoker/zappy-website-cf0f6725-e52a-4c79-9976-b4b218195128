@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלי את קולקציית התכשיטים הימית של דניאלה - עיצובים ייחודיים בהשראת הים, צדפים ותרבות הגלישה. תכשיטים בהתאמה אישית שמביאים את רוח החוף אליך.
+
+### אודות
+https://example.com/about
+הכירי את המותג שמשלב אהבה לאוקיינוס עם עיצוב תכשיטים ייחודי. דניאלה - מותג תכשיטים ישראלי בהשראת תרבות הגלישה והחוף, עם מוטיבים ימיים מרהיבים.
+
+### לוקבוק
+https://example.com/lookbook
+צפי בקולקציות המלאות שלנו - תכשיטים עם צדפים, מוטיבי גלישה ועיצובים ימיים מיוחדים. כל פריט מספר סיפור של ים, חוף ואהבה לאוקיינוס.
+
+### צור קשר
+https://example.com/contact
+מעוניינת בתכשיט מותאם אישית או בשרשרת עם שם בהזמנה אישית? צרי קשר עכשיו ונעזור לך ליצור את התכשיט הימי המושלם שישקף את אישיותך הייחודית.
+
+### Products
+https://example.com/products
+המוצרים שלנו - דניאלה
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - דניאלה
+
+### Category
+https://example.com/category/:slug
+מוצרים - דניאלה
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
